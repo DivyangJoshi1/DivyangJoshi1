@@ -10,8 +10,6 @@
 - 🔥 Enthusiastic about **Web Development & AI/ML**.
 - 🚀 Currently diving deep into **MERN Stack**.
 - 💡 Passionate about solving **DSA problems on LeetCode**.
-- 📜 Writing a research paper on **SWASTHYA SAMRAT – An AI-Based Healthcare Platform**.
-- 🎯 Exploring **Full-Stack Development, AI, and Proctored Exam Systems**.
 
 ---
 
