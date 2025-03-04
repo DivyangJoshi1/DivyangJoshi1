@@ -12,7 +12,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless and dynamic we
 
 ## 🛠 Tech Stack  
 
-### 🚀 Languages  
+### 💻 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -40,8 +40,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless and dynamic we
 ### 🗄️ Databases  
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & Tools  
@@ -54,9 +53,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless and dynamic we
 
 ### 🔗 Others  
 <p align="left">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats  
