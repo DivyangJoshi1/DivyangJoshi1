@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless and dynamic we
 ## 🚀 What I Do  
 - 🔥 Currently mastering **MERN Stack** for building scalable applications.  
 - 🧠 Passionate about **Artificial Intelligence & Machine Learning**.  
-- 🏆 Solving **DSA challenges** on LeetCode & CodeChef regularly.  
+- 🏆 Solving **DSA challenges** on LeetCode regularly.  
 - 🔗 Exploring **Blockchain Development** and its real-world applications.  
 - 🎨 Blending **technology with creativity** to build innovative projects.  
 - 💡 Always learning and staying updated with the latest tech trends.  
