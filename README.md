@@ -62,7 +62,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless and dynamic we
 ![Divyang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyangJoshi1&show_icons=true&theme=radical)  
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=DivyangJoshi1&theme=dracula&no-bg=true&no-frame=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=DivyangJoshi1&theme=dracula&no-bg=true&no-frame=true&rank=A)  
 
 
 ---
