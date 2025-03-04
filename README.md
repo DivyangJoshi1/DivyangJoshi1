@@ -78,7 +78,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless and dynamic we
 ---
 
 ### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyang-joshi-1a2171239/)}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyang-joshi-1a2171239/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio.com](https://portfoliodj.netlify.app/))
 
