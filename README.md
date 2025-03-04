@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Divyang Joshi! 🚀  
 
-I'm a **Full Stack Developer** passionate about crafting seamless and dynamic web applications. My journey started with **Python and Java**, but over time, I have expanded into **MERN Stack**, **AI/ML**, and **Blockchain Technology**. I love solving challenging problems, whether it's through **Data Structures & Algorithms**, **System Design**, or **Optimized Code Solutions**.  
+I'm a **Full Stack Developer** passionate about crafting seamless and dynamic web applications. My journey started with **Python and Java**, but over time, I have expanded into **MERN Stack** and **AI/ML**. I love solving challenging problems, whether it's through **Data Structures & Algorithms**, **System Design**, or **Optimized Code Solutions**.  
 
 ## 🚀 What I Do  
 - 🔥 Currently mastering **MERN Stack** for building scalable applications.  
